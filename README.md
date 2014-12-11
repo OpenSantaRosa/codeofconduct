@@ -42,11 +42,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
-
-SUBJECT: Safe Space alert at [EVENT NAME]
-
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
-
-You can reach me at (CONTACT INFO). Thank you.
 
